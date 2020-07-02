@@ -1,2 +1,2 @@
  1 'myapp
- 2 thisis my app
+ 2 this is my app
